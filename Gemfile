@@ -32,6 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
 gem 'simple_token_authentication', '~> 1.0'
+gem 'active_model_serializers'
 gem 'devise-ios-rails', github: 'netguru/devise-ios-rails'
 
 gem 'pg'
